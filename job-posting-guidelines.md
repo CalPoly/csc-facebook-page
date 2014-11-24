@@ -34,7 +34,7 @@ If your job posting was removed, you should receive a message from one of the ad
 
 ### Do not troll bad job postings
 
-Job posters are not necessarily informed in all of the technical lingo and their postings may come off as ridiculous. Please, rather than making some snarky remark, please refer them to these posting guidelines and be constructive. Enquiring about a job posting is alright, but please try to be constructive. Comments saying "I agree with such and such" are not constructive. If you agree with a criticism, simply like the comment. **Non-constructive comments on job postings will be removed.**
+Job posters are not necessarily informed in all of the technical lingo and their postings may come off as ridiculous. Please, rather than making some snarky remark, refer them to these posting guidelines and be constructive. Enquiring about a job posting is alright, but do not be condescending. Comments saying "I agree with such and such" are not constructive. If you agree with a comment, simply like the comment. **Non-constructive comments on job postings will be removed.** Every time you comment on a bad post, it gets bumped to the top of the page. If you are not interested in a job, just let the post sink.
 
 ### What do I do if I feel that a job posting is predatory?
 
