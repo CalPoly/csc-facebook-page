@@ -28,7 +28,7 @@ Just because someone comments on your posting, does not mean that they are inter
 
 **My job posting was removed, why?**
 
-If your job posting was removed, you should receive a message from one of the admins with an explanation. If you do not, feel free to message on and ask.
+If your job posting was removed, you should receive a message from one of the admins with an explanation. If you do not, feel free to message one and ask.
 
 ## Rules for Community Members
 
