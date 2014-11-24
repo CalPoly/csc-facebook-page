@@ -6,7 +6,9 @@ While job postings on the CSC Facebook page is allowed, we ask that both communi
 
 ### Think before you post
 
-Job posters, please try and be informed before posting on the page. Your totally awesome startup idea that came to you in a dream last night could be the next big thing, but think before you post. If you need advice before looking for a developer, ask for advice first. Chances are those who provide good advice would also make good candidates for the position you're looking to fill.
+Job posters, please try and be informed before posting on the page. Your totally awesome startup idea that came to you in a dream last night could be the next big thing, but think before you post. If you need advice before looking for a developer, ask for advice first. Chances are those who provide good advice would also make good candidates for the position you're looking to fill. 
+
+Also consider posting in in the [Cal Poly Jobs & Internships](https://www.facebook.com/groups/401906859833442/) group instead of the Computer Science group. By posting in a dedicated jobs group, you ensure your post is visible to people who are actively looking to work, and will have increased interaction. You might find people who aren't Computer Science majors but know how to code as well!
 
 ### Please explain your idea
 
