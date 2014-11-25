@@ -16,7 +16,7 @@ You do not need to explain the exact nature of the job in your posting (although
 
 ### Predatory job postings will be removed
 
-Admins are free to remove your job posting if they feel that it is predatory. While people are allowed to make their own decisions, in the best interest of our community memebers we will remove your post if we feel that it is taking advantage of students.
+Admins are free to remove your job posting if they feel that it is predatory. While people are allowed to make their own decisions, in the best interest of our community members we will remove your post if we feel that it is taking advantage of students.
 
 ### Only post once
 
